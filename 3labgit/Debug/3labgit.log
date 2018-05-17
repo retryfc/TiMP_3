@@ -1,0 +1,10 @@
+﻿  SortTester.cpp
+  QwickSort3Way.cpp
+  MergeSort.cpp
+  3labgit.cpp
+c:\users\danzo\documents\visual studio 2017\projects\3labgit\3labgit\3labgit.cpp(17): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода...
+  Компиляция...
+  SelectionSort.cpp
+  Создание кода...
+  3labgit.vcxproj -> C:\Users\DANZO\Documents\Visual Studio 2017\Projects\3labgit\Debug\3labgit.exe
